@@ -145,6 +145,15 @@ np.mean(predict(res.x,x)==y)
 ## res.x:
 ![exp 5 ml 7](https://github.com/Rama-Lekshmi/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541549/50d9a6fa-887a-4950-b765-1111b31db73e)
 ## Decision boundary:
+
+
+
+
+
+
+
+
+
 ![exp 5 ml 8](https://github.com/Rama-Lekshmi/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541549/d7bb6b4e-1bab-45a8-8f9a-4b6f6dd23000)
 ## Proability value:
 ![exp 5 ml 9](https://github.com/Rama-Lekshmi/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118541549/f16e3f91-1835-4381-951f-d11f1892a209)
